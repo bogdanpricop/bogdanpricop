@@ -59,7 +59,7 @@ Sistem de management echipamente pentru o fabrica de etichete. 40+ tabele, 6 rol
 </td>
 <td width="50%" valign="top">
 
-<!-- ![DeclaratiaTa Preview](assets/declaratiata-demo.gif) -->
+<!-- ![DeclaratiaTa Preview](assets/Declaratii.eu.gif) -->
 <img src="https://via.placeholder.com/400x200/FFF3E0/E65100?text=Declaratia+Ta" width="100%" />
 
 **DeclaratiaTa — Platforma Fiscala** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/wip-FFC107?style=flat-square" />
