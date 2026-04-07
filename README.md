@@ -33,6 +33,8 @@ AI-powered suggestion and feedback platform for enterprise teams. Real-time coll
 </td>
 <td width="50%" valign="top">
 
+<img src="assets/procureflow-demo.gif" width="100%" />
+
 **ProcureFlow — Enterprise Procurement** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" />
 
 Platforma de procurement cu modul RFQ, integrare eFactura/ANAF, OAuth2, management documente XML/PDF/ZIP, permisiuni granulare. 27 tabele, 70+ stored procedures.
@@ -54,6 +56,8 @@ Sistem de management echipamente pentru o fabrica de etichete. 40+ tabele, 6 rol
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/Tax-demo.gif" width="100%" />
 
 **DeclaratiaTa — Platforma Fiscala** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/wip-FFC107?style=flat-square" />
 
