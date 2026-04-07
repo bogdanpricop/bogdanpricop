@@ -12,6 +12,7 @@ TypeScript · Node.js · React · MSSQL · Delphi/FMX · Docker · Cloudflare</p
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL//MariaDB-CC2927?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 ---
