@@ -1,6 +1,6 @@
 <h1>Hey, sunt Bogdan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p>Solo developer · Building full-stack web apps + Windows desktop software + Android Native.<br/>
+<p>Solo developer @ etichete.ro · Building full-stack web apps + Windows/Android desktop software.<br/>
 TypeScript · Node.js · React · MSSQL · Delphi/FMX · Docker · Cloudflare</p>
 
 <p>
@@ -12,7 +12,6 @@ TypeScript · Node.js · React · MSSQL · Delphi/FMX · Docker · Cloudflare</p
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL//MariaDB-CC2927?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -33,9 +32,6 @@ AI-powered suggestion and feedback platform for enterprise teams. Real-time coll
 
 </td>
 <td width="50%" valign="top">
-
-<!-- ![ProcureFlow Preview](assets/procureflow-demo.gif) -->
-<img src="assets/procureflow-demo.gif" width="100%" />
 
 **ProcureFlow — Enterprise Procurement** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" />
 
@@ -58,9 +54,6 @@ Sistem de management echipamente pentru o fabrica de etichete. 40+ tabele, 6 rol
 
 </td>
 <td width="50%" valign="top">
-
-<!-- ![DeclaratiaTa Preview](assets/Declaratii.eu.gif) -->
-<img src="assets/Tax-demo.gif" width="100%" />
 
 **DeclaratiaTa — Platforma Fiscala** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/wip-FFC107?style=flat-square" />
 
@@ -97,10 +90,6 @@ Centralized license management for SaaS, on-prem, Docker, and Delphi application
 <tr>
 <td width="50%" valign="top">
 
-<!-- ![Docker Dash Preview](assets/docker-dash-demo.gif) -->
-
-<img src="assets/docker-dash-demo.gif" width="100%" />
-
 **Docker Dash** &nbsp; `public` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" /> &nbsp; [![Stars](https://img.shields.io/github/stars/bogdanpricop/docker-dash?style=flat-square)](https://github.com/bogdanpricop/docker-dash)
 
 Self-hosted Docker management dashboard. 80+ features: Sandbox Mode, AI diagnostics, GitOps, Swarm, CIS Benchmark, vulnerability scanning. ~50MB RAM, zero dependencies.
@@ -109,8 +98,6 @@ Self-hosted Docker management dashboard. 80+ features: Sandbox Mode, AI diagnost
 
 </td>
 <td width="50%" valign="top">
-
-<!-- ![Delphi MCP Preview](assets/delphi-mcp-demo.gif) -->
 
 **Delphi MCP Server** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" />
 
@@ -285,14 +272,34 @@ Scale/weighing integration and management.
 
 ## Stack & limbaje
 
-```
-Limbaje principale                    Infrastructura & tooling
-─────────────────                     ────────────────────────
-TypeScript ████████████████░░░░ 70%   Docker          ████████████████ primary
-Pascal/Delphi ████░░░░░░░░░░░░░░ 20%   Cloudflare      ████████████████ tunnels
-SQL (T-SQL) ██░░░░░░░░░░░░░░░░░  8%   MSSQL Server    ████████████████ all apps
-Altele ░░░░░░░░░░░░░░░░░░░░  2%   Claude Code CLI ████████████████ daily
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Limbaje principale**
+
+| | | |
+|---|---|---|
+| TypeScript | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-3178C6?style=flat-square) | 70% |
+| Pascal/Delphi | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88-EE1F35?style=flat-square) | 20% |
+| SQL (T-SQL) | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88-CC2927?style=flat-square) | 8% |
+| Altele | ![](https://img.shields.io/badge/-%E2%96%88-888?style=flat-square) | 2% |
+
+</td>
+<td width="50%" valign="top">
+
+**Infrastructura & tooling**
+
+| | | |
+|---|---|---|
+| Docker | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-2496ED?style=flat-square) | primary |
+| Cloudflare | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-F38020?style=flat-square) | tunnels |
+| MSSQL Server | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-CC2927?style=flat-square) | all apps |
+| Claude Code CLI | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-1a1a2e?style=flat-square) | daily |
+
+</td>
+</tr>
+</table>
 
 ---
 
