@@ -122,7 +122,7 @@ The most comprehensive MCP server for Delphi development — 41 tools, IDE plugi
 <table>
 <tr>
 <td width="50%" valign="top">
-
+<img src="assets/medinet-demo.gif" width="100%" />
 **MediNet — Clinic Management SaaS** &nbsp; `private`
 
 Medical, Dental & Veterinary clinic management. Multi-tenant, Docker-ready.
