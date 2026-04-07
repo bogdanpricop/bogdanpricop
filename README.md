@@ -1,7 +1,7 @@
 <h1>Hey, I'm Bogdan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p>Solo developer · Building full-stack web apps + Windows desktop software + Android native apps.<br/>
-TypeScript · Node.js · React · MSSQL · Delphi/FMX · Docker · Cloudflare</p>
+TypeScript · Node.js · React · MSSQL · MySQL/MariaDB · Delphi/FMX · Docker · Cloudflare</p>
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
