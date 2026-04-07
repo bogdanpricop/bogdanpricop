@@ -1,219 +1,272 @@
-# Hi, I'm Bogdan Pricop
+<h1>Hey, sunt Bogdan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-**Delphi, Node.js & SQL Server developer** building practical business applications and integrations.
+<p>Solo developer @ etichete.ro · Building full-stack web apps + Windows/Android desktop software.<br/>
+TypeScript · Node.js · React · MSSQL · Delphi/FMX · Docker · Cloudflare</p>
 
-I design and build full-stack solutions — from enterprise procurement systems to AI-powered tools — with a focus on clean architecture, real-world utility, and shipping fast.
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
 ---
 
-## Featured Projects
+## Proiecte active
 
-### DeclaratiaTa — Romanian Tax Platform
-> 15 ANAF declarations, 8 calculators, validation tools. The complete fiscal platform for Romania.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="assets/air-preview.gif" width="100%" />
+
+**AIR — Global Suggestion System** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" />
+
+AI-powered suggestion and feedback platform for enterprise teams. Real-time collaboration, voting, status tracking.
+
+`TypeScript` `React` `Express` `MSSQL`
+
+</td>
+<td width="50%" valign="top">
+
+<!-- ![ProcureFlow Preview](assets/procureflow-demo.gif) -->
+<img src="https://via.placeholder.com/400x200/E8EAF6/5C6BC0?text=ProcureFlow+%2F+RFQ" width="100%" />
+
+**ProcureFlow — Enterprise Procurement** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" />
+
+Platforma de procurement cu modul RFQ, integrare eFactura/ANAF, OAuth2, management documente XML/PDF/ZIP, permisiuni granulare. 27 tabele, 70+ stored procedures.
+
+`TypeScript` `MSSQL` `React` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="assets/ems-demo.gif" width="100%" />
+
+**EMS — Equipment Management** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" />
+
+Sistem de management echipamente pentru o fabrica de etichete. 40+ tabele, 6 roluri RBAC, frontend React 18 in romana, complet containerizat.
+
+`TypeScript` `MSSQL` `React`
+
+</td>
+<td width="50%" valign="top">
+
+<!-- ![DeclaratiaTa Preview](assets/declaratiata-demo.gif) -->
+<img src="https://via.placeholder.com/400x200/FFF3E0/E65100?text=Declaratia+Ta" width="100%" />
+
+**DeclaratiaTa — Platforma Fiscala** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/wip-FFC107?style=flat-square" />
+
+Platforma fiscala completa pentru Romania. 15 declaratii ANAF, 8 calculatoare, instrumente validare.
 
 `TypeScript` `Next.js` `ANAF API`
 
-<!-- ![DeclaratiaTa Preview](assets/declaratiata-demo.gif) -->
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+<img src="assets/elicart-demo.gif" width="100%" />
 
-### AIR — Global Suggestion System
-> AI-powered suggestion and feedback platform for enterprise teams.
+**EliCart — AI-Native Commerce** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/wip-FFC107?style=flat-square" />
 
-`TypeScript` `React` `AI`
-
-![AIR Preview](assets/air-preview.gif)
-
----
-
-### ProcureFlow — Enterprise Procurement
-> RFQ, Offers, Orders, Contracts, E-Auction, OCR — end-to-end procurement management.
-
-`TypeScript` `React` `Express` `PostgreSQL`
-
-<!-- ![ProcureFlow Preview](assets/procureflow-demo.gif) -->
-
----
-
-### MediNet — Clinic Management SaaS
-> Medical, Dental & Veterinary clinic management. Multi-tenant, Docker-ready.
-
-`TypeScript` `React` `Express` `MariaDB` `Docker`
-
-<!-- ![MediNet Preview](assets/medinet-demo.gif) -->
-
----
-
-### EliCart — AI-Native Commerce Engine
-> Headless commerce engine with AI built-in. TypeScript, Next.js, Hono, PostgreSQL, pgvector.
+Headless commerce engine with AI built-in. Batteries included, headless by design.
 
 `TypeScript` `Next.js` `Hono` `PostgreSQL` `pgvector`
 
-![EliCart Preview](assets/elicart-demo.gif)
+</td>
+<td width="50%" valign="top">
 
----
+<img src="assets/license-manager-demo.gif" width="100%" />
 
-### Docker Dash
-> Self-hosted Docker management dashboard — lightweight Portainer alternative. 80+ features: Sandbox Mode, AI diagnostics, GitOps, Swarm, CIS Benchmark, vulnerability scanning, multi-host, RBAC. ~50MB RAM, zero dependencies.
+**LogicAI License Manager** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" />
 
-`JavaScript` `Node.js` `Docker` `SQLite`
+Centralized license management for SaaS, on-prem, Docker, and Delphi applications.
 
-[![GitHub](https://img.shields.io/github/stars/bogdanpricop/docker-dash?style=flat-square)](https://github.com/bogdanpricop/docker-dash)
+`TypeScript` `React` `Express`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <!-- ![Docker Dash Preview](assets/docker-dash-demo.gif) -->
+<img src="https://via.placeholder.com/400x200/263238/4CAF50?text=DOCKER+DASH+v5.6" width="100%" />
 
----
+**Docker Dash** &nbsp; `public` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" /> &nbsp; [![Stars](https://img.shields.io/github/stars/bogdanpricop/docker-dash?style=flat-square)](https://github.com/bogdanpricop/docker-dash)
 
-### Delphi MCP Server
-> The most comprehensive MCP server for Delphi development — 41 tools, IDE plugin, knowledge learning.
+Self-hosted Docker management dashboard. 80+ features: Sandbox Mode, AI diagnostics, GitOps, Swarm, CIS Benchmark, vulnerability scanning. ~50MB RAM, zero dependencies.
+
+`TypeScript` `Node.js` `React` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+<!-- ![Delphi MCP Preview](assets/delphi-mcp-demo.gif) -->
+<img src="https://via.placeholder.com/400x200/1A237E/BBDEFB?text=Delphi+MCP+Server" width="100%" />
+
+**Delphi MCP Server** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" />
+
+The most comprehensive MCP server for Delphi development — 41 tools, IDE plugin, knowledge learning.
 
 `TypeScript` `MCP` `Delphi` `AI`
 
-<!-- ![Delphi MCP Preview](assets/delphi-mcp-demo.gif) -->
+</td>
+</tr>
+</table>
 
 ---
 
-### LogicAI License Manager
-> Centralized license management for SaaS, on-prem, Docker, and Delphi applications.
+## Mai multe proiecte
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**MediNet — Clinic Management SaaS** &nbsp; `private`
+
+Medical, Dental & Veterinary clinic management. Multi-tenant, Docker-ready.
+
+`TypeScript` `React` `Express` `MariaDB` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**ClaimDesk — Claims Management** &nbsp; `private`
+
+End-to-end claims and complaint management system.
 
 `TypeScript` `React` `Express`
 
-![License Manager Preview](assets/license-manager-demo.gif)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**A4L Chat — Realtime Collaboration** &nbsp; `private`
 
-### ClaimDesk — Claims Management
-> End-to-end claims and complaint management system.
-
-`TypeScript` `React` `Express`
-
-<!-- ![ClaimDesk Preview](assets/claimdesk-demo.gif) -->
-
----
-
-### RFQ Manager Pro
-> Request for Quotation management — streamlined procurement workflows.
-
-`TypeScript`
-
-<!-- ![RFQ Manager Preview](assets/rfq-demo.gif) -->
-
----
-
-### Overlay AI — Production Line Overlay
-> Transparent information overlay for production lines on Windows. Built with Delphi VCL.
-
-`Pascal` `Delphi` `VCL`
-
-<!-- ![Overlay AI Preview](assets/overlay-ai-demo.gif) -->
-
----
-
-### A4L Chat — Realtime Collaboration
-> Realtime chat and collaboration platform.
+Realtime chat and collaboration platform.
 
 `TypeScript` `WebSocket`
 
-<!-- ![A4L Chat Preview](assets/a4lchat-demo.gif) -->
+</td>
+<td width="50%" valign="top">
 
----
+**Overlay AI — Production Line Overlay** &nbsp; `private`
 
-### Prospects — Smart Sales CRM
-> Sell more, smarter. Lead management and sales pipeline.
+Transparent information overlay for production lines. Delphi VCL.
 
-`TypeScript`
+`Pascal` `Delphi` `VCL`
 
-<!-- ![Prospects Preview](assets/prospects-demo.gif) -->
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**Prospects — Smart Sales CRM** &nbsp; `private`
 
-### Bijoux CRM
-> Customer relationship management for jewelry business.
-
-`TypeScript`
-
-<!-- ![Bijoux Preview](assets/bijoux-demo.gif) -->
-
----
-
-### Cafee Master
-> Cafe and restaurant management system.
+Lead management and sales pipeline. Sell more, smarter.
 
 `TypeScript`
 
-<!-- ![Cafee Master Preview](assets/cafee-demo.gif) -->
+</td>
+<td width="50%" valign="top">
 
----
+**Bijoux CRM** &nbsp; `private`
 
-### Prepress Flow Manager
-> Prepress workflow automation and file management.
-
-`TypeScript`
-
-<!-- ![Prepress Preview](assets/prepress-demo.gif) -->
-
----
-
-### OmniBook — Appointment Manager
-> Multi-tenant appointment scheduling system.
+Customer relationship management for jewelry business.
 
 `TypeScript`
 
-<!-- ![OmniBook Preview](assets/omnibook-demo.gif) -->
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**Cafee Master** &nbsp; `private`
 
-### HQ Interactions
-> Headquarters interaction and communication platform.
-
-`TypeScript`
-
-<!-- ![HQ Preview](assets/hq-demo.gif) -->
-
----
-
-### IdeeasForge
-> Idea management and brainstorming platform.
+Cafe and restaurant management system.
 
 `TypeScript`
 
-<!-- ![IdeeasForge Preview](assets/ideeas-demo.gif) -->
+</td>
+<td width="50%" valign="top">
 
----
+**RFQ Manager Pro** &nbsp; `private`
 
-### App Portal
-> Enterprise application portal — centralized access to all internal tools.
-
-`TypeScript`
-
-<!-- ![App Portal Preview](assets/app-portal-demo.gif) -->
-
----
-
-### MedNet — Clinic Manager
-> Clinical management system (earlier iteration).
+Request for Quotation management — streamlined procurement.
 
 `TypeScript`
 
-<!-- ![MedNet Preview](assets/mednet-demo.gif) -->
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**Prepress Flow Manager** &nbsp; `private`
 
-### Scale Manager
-> Scale/weighing integration and management.
+Prepress workflow automation and file management.
+
+`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+**OmniBook — Appointment Manager** &nbsp; `private`
+
+Multi-tenant appointment scheduling system.
+
+`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**HQ Interactions** &nbsp; `private`
+
+Headquarters interaction and communication platform.
+
+`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+**IdeeasForge** &nbsp; `private`
+
+Idea management and brainstorming platform.
+
+`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**App Portal** &nbsp; `private`
+
+Enterprise application portal — centralized access to internal tools.
+
+`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+**Scale Manager** &nbsp; `private`
+
+Scale/weighing integration and management.
 
 `Python`
 
-<!-- ![Scale Manager Preview](assets/scale-manager-demo.gif) -->
-
----
-
-### EMS
-> Enterprise management system with full operational dashboard.
-
-`TypeScript` `React` `Express` `Docker`
-
-![EMS Preview](assets/ems-demo.gif)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -221,23 +274,23 @@ I design and build full-stack solutions — from enterprise procurement systems 
 
 | Project | Description |
 |---|---|
-| [docker-dash](https://github.com/bogdanpricop/docker-dash) | Self-hosted Docker dashboard — 80+ features, ~50MB RAM |
-| [image_collector](https://github.com/bogdanpricop/image_collector) | Pro Image Collector |
-| [d2bridge](https://github.com/bogdanpricop/d2bridge) | D2 Bridge utility |
-| [WebStencilsDemos](https://github.com/bogdanpricop/WebStencilsDemos) | Embarcadero official WebStencils demo repository |
-| [LifeGame](https://github.com/bogdanpricop/LifeGame) | Conway's Game of Life implementation |
+| [![docker-dash](https://img.shields.io/badge/docker--dash-263238?style=flat-square&logo=docker&logoColor=white)](https://github.com/bogdanpricop/docker-dash) | Self-hosted Docker dashboard — 80+ features, ~50MB RAM |
+| [![image_collector](https://img.shields.io/badge/image__collector-333?style=flat-square&logo=javascript&logoColor=white)](https://github.com/bogdanpricop/image_collector) | Pro Image Collector |
+| [![d2bridge](https://img.shields.io/badge/d2bridge-333?style=flat-square&logo=github&logoColor=white)](https://github.com/bogdanpricop/d2bridge) | D2 Bridge utility |
+| [![WebStencilsDemos](https://img.shields.io/badge/WebStencilsDemos-EE1F35?style=flat-square&logo=delphi&logoColor=white)](https://github.com/bogdanpricop/WebStencilsDemos) | Embarcadero official WebStencils demo repository |
+| [![LifeGame](https://img.shields.io/badge/LifeGame-333?style=flat-square&logo=github&logoColor=white)](https://github.com/bogdanpricop/LifeGame) | Conway's Game of Life implementation |
 
 ---
 
-## Tech Stack
+## Stack & limbaje
 
 ```
-Frontend     TypeScript, React, Next.js, Tailwind CSS
-Backend      Node.js, Express, Hono, Delphi
-Database     PostgreSQL, MariaDB, SQL Server, SQLite
-AI/ML        OpenAI, pgvector, MCP
-DevOps       Docker, Docker Swarm, GitOps
-Desktop      Delphi VCL/FMX, Pascal
+Limbaje principale                    Infrastructura & tooling
+─────────────────                     ────────────────────────
+TypeScript ████████████████░░░░ 70%   Docker          ████████████████ primary
+Pascal/Delphi ████░░░░░░░░░░░░░░ 20%   Cloudflare      ████████████████ tunnels
+SQL (T-SQL) ██░░░░░░░░░░░░░░░░░  8%   MSSQL Server    ████████████████ all apps
+Altele ░░░░░░░░░░░░░░░░░░░░  2%   Claude Code CLI ████████████████ daily
 ```
 
 ---
