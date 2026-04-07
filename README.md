@@ -94,6 +94,8 @@ Centralized license management for SaaS, on-prem, Docker, and Delphi application
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/docker-dash-demo.gif" width="100%" />
+
 **Docker Dash** &nbsp; `public` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" /> &nbsp; [![Stars](https://img.shields.io/github/stars/bogdanpricop/docker-dash?style=flat-square)](https://github.com/bogdanpricop/docker-dash)
 
 Self-hosted Docker management dashboard. 80+ features: Sandbox Mode, AI diagnostics, GitOps, Swarm, CIS Benchmark, vulnerability scanning. ~50MB RAM, zero dependencies.
