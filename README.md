@@ -1,4 +1,4 @@
-<h1>Hey, sunt Bogdan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Hey, I'm Bogdan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p>Solo developer @ etichete.ro · Building full-stack web apps + Windows/Android desktop software.<br/>
 TypeScript · Node.js · React · MSSQL · Delphi/FMX · Docker · Cloudflare</p>
@@ -16,7 +16,7 @@ TypeScript · Node.js · React · MSSQL · Delphi/FMX · Docker · Cloudflare</p
 
 ---
 
-## Proiecte active
+##  Active Projects
 
 <table>
 <tr>
