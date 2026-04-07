@@ -1,6 +1,6 @@
 <h1>Hey, sunt Bogdan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p>Solo developer @ etichete.ro · Building full-stack web apps + Windows/Android desktop software.<br/>
+<p>Solo developer · Building full-stack web apps + Windows desktop software + Android Native.<br/>
 TypeScript · Node.js · React · MSSQL · Delphi/FMX · Docker · Cloudflare</p>
 
 <p>
