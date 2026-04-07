@@ -35,7 +35,7 @@ AI-powered suggestion and feedback platform for enterprise teams. Real-time coll
 <td width="50%" valign="top">
 
 <!-- ![ProcureFlow Preview](assets/procureflow-demo.gif) -->
-<img src="https://via.placeholder.com/400x200/E8EAF6/5C6BC0?text=ProcureFlow+%2F+RFQ" width="100%" />
+<img src="assets/procureflow-demo.gif" width="100%" />
 
 **ProcureFlow — Enterprise Procurement** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" />
 
