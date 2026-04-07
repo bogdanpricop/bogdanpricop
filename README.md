@@ -111,7 +111,6 @@ Self-hosted Docker management dashboard. 80+ features: Sandbox Mode, AI diagnost
 <td width="50%" valign="top">
 
 <!-- ![Delphi MCP Preview](assets/delphi-mcp-demo.gif) -->
-<img src="https://via.placeholder.com/400x200/1A237E/BBDEFB?text=Delphi+MCP+Server" width="100%" />
 
 **Delphi MCP Server** &nbsp; `private` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" />
 
