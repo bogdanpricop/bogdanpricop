@@ -98,7 +98,8 @@ Centralized license management for SaaS, on-prem, Docker, and Delphi application
 <td width="50%" valign="top">
 
 <!-- ![Docker Dash Preview](assets/docker-dash-demo.gif) -->
-<img src="https://via.placeholder.com/400x200/263238/4CAF50?text=DOCKER+DASH+v5.6" width="100%" />
+
+<img src="assets/docker-dash-demo.gif" width="100%" />
 
 **Docker Dash** &nbsp; `public` &nbsp; <img src="https://img.shields.io/badge/live-4CAF50?style=flat-square" /> &nbsp; [![Stars](https://img.shields.io/github/stars/bogdanpricop/docker-dash?style=flat-square)](https://github.com/bogdanpricop/docker-dash)
 
